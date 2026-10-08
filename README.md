@@ -570,3 +570,69 @@ Visualization
 Business Insights
         ↓
 Recommendations
+
+
+E-commerce-Funnel-Product-Conversion-Analytics/
+│
+├── E-commerce_Funnel_Product_Conversion_Analytics_Cleaned.ipynb
+│
+├── visualizations/
+│   ├── engagement_transaction_rate.png
+│   ├── monthly_conversion.png
+│   ├── monthly_transactions.png
+│   ├── monthly_views_transactions.png
+│   ├── product_conversion.png
+│   ├── product_performance_segments.png
+│   └── visitor_funnel.png
+│
+└── README.md
+
+🧠 Skills Demonstrated
+Python
+- Data loading
+- Data inspection
+- Data cleaning
+- Conditional logic
+- GroupBy operations
+- Pivot tables
+- Feature creation
+- Aggregation
+- Date/time analysis
+Pandas
+- DataFrame manipulation
+- Missing-value analysis
+- Duplicate detection
+- GroupBy
+- Pivot tables
+- Aggregations
+- Filtering
+- Sorting
+- Calculated columns
+Matplotlib
+- Bar charts
+- Line charts
+- Comparative visualizations
+- Funnel visualization
+- Trend analysis
+Business Analytics
+- Funnel analysis
+- Conversion analysis
+- Product performance analysis
+- Customer/visitor segmentation
+- Engagement analysis
+- Trend analysis
+- Business recommendations
+📌 Final Project Summary
+This project analyzes more than 2.7 million e-commerce interaction events to understand visitor funnel behavior, product conversion patterns, engagement levels, and transaction trends.
+The analysis found that only 2.69% of viewing visitors appeared in the add-to-cart visitor group, while 0.83% appeared in the transaction visitor group.
+The analysis also identified a strong association between visitor engagement and transaction activity, along with high-traffic products showing weak or zero observed transaction activity.
+These findings provide a data-driven starting point for investigating funnel optimization, product-page performance, and customer engagement opportunities.
+👨‍💻 Author
+Varun Singh
+Aspiring Data Analyst
+Skills: Python | SQL | Excel | Power BI | DAX | Pandas | Matplotlib
+
+
+
+
+
